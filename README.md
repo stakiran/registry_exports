@@ -1,0 +1,4 @@
+- DirectoryBackground は事前に scripts の clone が要る
+- Windows 再起動が要るもの:
+    - Enable LUA
+    - InProcServer32
